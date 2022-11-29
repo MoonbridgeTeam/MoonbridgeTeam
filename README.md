@@ -1,5 +1,5 @@
 
-![Header](https://github.com/MoonbridgeTeam/MoonbridgeTeam/blob/main/Digital%20cube.png) 
+![Header](https://png.pngtree.com/thumb_back/fw800/back_our/20190620/ourmid/pngtree-blue-digital-technology-electronic-banner-image_168524.jpg) 
 
 ### #Validator #Node Operator  
 ### Languages and Tools 

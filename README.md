@@ -1,5 +1,5 @@
 
-![Header](https://github.com/MoonbridgeTeam/MoonbridgeTeam/blob/main/pngtree-blue-digital-technology-electronic-banner-image_168524.jpg) 
+![Header](https://github.com/MoonbridgeTeam/MoonbridgeTeam/blob/main/photo_2022-10-11_17-09-55.jpg) 
 
 ### #Validator #Node Operator  
 ### Languages and Tools 
